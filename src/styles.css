@@ -414,10 +414,6 @@ h2 {
     .footer-right {
         flex: 2 10px;
     }
-    .sidebar {
-        right: -500px;
-        transition: "right 0.3s ease";
-    }
 }
 
 @media (max-width: 800px) {
